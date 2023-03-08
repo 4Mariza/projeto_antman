@@ -1,0 +1,44 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    width: 35vw;
+    font-size: small;
+    color: ivory;
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 78px;
+}
+.logo_icon{
+    width: 37vw;
+}
+
+p{
+    font-family: 'Open Sans', sans-serif;
+    color: ivory;
+    font-size: 20px;
+    width: 500px;
+}
+body{
+    background-image: url(./img/background.png);
+    background-size: cover;
+    margin: 60px;
+
+}
+.trailers{
+    margin-top: 50px;
+    margin-inline-end: 40px;
+    height: 10vw;
+}
+.redes_sociais{
+    display: flex;
+flex-direction: column;
+width: 20px;
+height: 10px;
+align-items: center;
+justify-content: flex-end;
+justify-content: space-between;
+row-gap: 42px;
+}
+main{
+    display: grid;
+    grid-template-columns: 60fr 1fr;
+}
