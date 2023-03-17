@@ -27,12 +27,20 @@ body{
     margin-top: 50px;
     margin-inline-end: 40px;
     height: 10vw;
+    
 }
+.trailer1{
+    padding-right:30px ;
+}
+.trailer2{
+    padding-right: 30px;
+}
+
 .redes_sociais{
     display: flex;
 flex-direction: column;
 width: 20px;
-height: 10px;
+height: 0px;
 align-items: center;
 justify-content: flex-end;
 justify-content: space-between;
