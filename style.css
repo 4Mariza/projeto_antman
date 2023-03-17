@@ -6,7 +6,9 @@
     color: ivory;
     font-family: 'Open Sans', sans-serif;
     margin-bottom: 78px;
+    cursor: pointer;
 }
+
 .logo_icon{
     width: 37vw;
 }
@@ -17,6 +19,7 @@ p{
     font-size: 20px;
     width: 500px;
 }
+
 body{
     background-image: url(./img/background.png);
     background-size: cover;
@@ -45,7 +48,9 @@ align-items: center;
 justify-content: flex-end;
 justify-content: space-between;
 row-gap: 42px;
+cursor: pointer;
 }
+
 main{
     display: grid;
     grid-template-columns: 60fr 1fr;
